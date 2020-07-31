@@ -1,6 +1,6 @@
 Heart Disease Prediction  (Classification)
 ===========================================
--Vaibhav Haswani
+                                             -Vaibhav Haswani
 
 **Note:** The notebook can take a long time to run totally depending on your machine's computation power as algorithms like `RandomizedSearchCV` and `GridSearchCV` are used in the Project.
 
@@ -21,4 +21,5 @@ Final evaluation is done using `Logistic Regression`
 ## Project Environment
 
 "Make sure your working environment is same as in the env.yml if not use the following command to create custom conda environment from env.yml in"-
-`conda env create --file env.yml `
+
+> `conda env create --file env.yml `
